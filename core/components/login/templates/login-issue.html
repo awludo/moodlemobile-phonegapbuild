@@ -1,5 +1,5 @@
-<h3>{{ 'mm.core.whoops' }}</h3>
-<p>{{ 'Non è possibile connettersi al sito' }}</p>
+<h3>{{ 'mm.core.whoops' | translate }}</h3>
+<p>{{ 'mm.login.problemconnectingerror' | translate }}</p>
 <p class="padding">{{siteurl}}</p>
-<p>{{ 'Controlla di aver inserito correttamente l'indirizzo del sito AulaWeb al quale vuoi collegarti. Per esempio: lettere.aulaweb.unige.it' }}</p>
-<button class="button button-block" ng-click="closePopup()">{{ 'Riprova' }}</button>
+<p>{{ 'mm.login.problemconnectingerrorcontinue' | translate }}</p>
+<button class="button button-block" ng-click="closePopup()">{{ 'mm.core.tryagain' | translate }}</button>
