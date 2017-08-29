@@ -532,7 +532,7 @@
     "mm.login.missinglastname": "Non hai inserito il cognome",
     "mm.login.mobileservicesnotenabled": "I servizi mobile non sono abilitati nel sito. Per richiederne l'abilitazione, contattare l'amministrazione del sito.",
     "mm.login.newaccount": "Nuovo account",
-    "mm.login.newsitedescription": "Inserisci l'indirizzo del sito AulaWeb al quale vuoi collegarti (es. economia.aulaweb.unige.it). Quindi collegati con le tue credenziali UniGePASS.",
+    "mm.login.newsitedescription": "Inserisci l'indirizzo del sito AulaWeb al quale vuoi collegarti. Quindi collegati con le tue credenziali UniGePASS.",
     "mm.login.notloggedin": "Devi essere autenticato",
     "mm.login.password": "Password",
     "mm.login.passwordrequired": "Password necessaria",
