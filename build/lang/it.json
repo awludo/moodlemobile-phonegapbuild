@@ -515,7 +515,27 @@
     "mm.login.firsttime": "È la prima volta che accedi qui?",
     "mm.login.getanothercaptcha": "Chiedi un altro CAPTCHA",
     "mm.login.help": "Aiuto",
-    "mm.login.helpmelogin": "Per accedere inserisci l'indirizzo del sito AulaWeb al quale vuoi collegarti:",    
+    "mm.login.helpmelogin": "Per accedere inserisci l'indirizzo del sito AulaWeb al quale vuoi collegarti:\n
+    DISTAV: distav.aulaweb.unige.it\n
+    Valle Puggia - SMFC: smfc.aulaweb.unige.it\n
+    DIBRIS: dibris.aulaweb.unige.it\n
+    Biotecnologie: biotecnologie.aulaweb.unige.it\n
+    Farmacia: farmacia.aulaweb.unige.it\n
+    Medicina e Chirurgia: medicina.aulaweb.unige.it\n
+    Professioni Sanitarie: sanitarie.aulaweb.unige.it\n
+    Scienze Motorie: smotorie.aulaweb.unige.it\n
+    Economia: economia.aulaweb.unige.it\n
+    Giurisprudenza: giurisprudenza.aulaweb.unige.it\n
+    Scienze politiche: scienzepolitiche.aulaweb.unige.it\n
+    Scienze della Formazione: sdf.aulaweb.unige.it\n
+    Lettere: lettere.aulaweb.unige.it\n
+    Lingue: lingue.aulaweb.unige.it\n
+    DAD: architettura.aulaweb.unige.it\n
+    DICCA: dicca.aulaweb.unige.it\n
+    DIME: dime.aulaweb.unige.it\n
+    DITEN: diten.aulaweb.unige.it\n
+    Ingegneria (La Spezia): ingsp.aulaweb.unige.it\n
+    Ingegneria (Savona): ingsv.aulaweb.unige.it",    
     "mm.login.instructions": "Istruzioni",
     "mm.login.invalidaccount": "Verificare le proprie credenziali o chiedere all'amministratore del sito di controllare la configurazione del sito.",
     "mm.login.invalidemail": "Indirizzo email non valido",
