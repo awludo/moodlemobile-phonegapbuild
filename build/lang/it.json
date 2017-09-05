@@ -515,7 +515,7 @@
     "mm.login.firsttime": "È la prima volta che accedi qui?",
     "mm.login.getanothercaptcha": "Chiedi un altro CAPTCHA",
     "mm.login.help": "Aiuto",
-    "mm.login.helpmelogin": "<p>Per accedere inserisci l'indirizzo del sito AulaWeb al quale vuoi collegarti:</p> DISTAV: distav.aulaweb.unige.it",      
+    "mm.login.helpmelogin": "<p>Per accedere inserisci l'indirizzo del sito AulaWeb al quale vuoi collegarti:</p>\nDISTAV: distav.aulaweb.unige.it \nDIBRIS: dibris.aulaweb.unige.it",      
     "mm.login.instructions": "Istruzioni",
     "mm.login.invalidaccount": "Verificare le proprie credenziali o chiedere all'amministratore del sito di controllare la configurazione del sito.",
     "mm.login.invalidemail": "Indirizzo email non valido",
