@@ -10513,10 +10513,10 @@ a.button {
  * App Branding
  */
 .mm-bglogo {
-  background-color: #ff5c00;
+  background-color: #020222;
   /* Change this to add a bg image or change color */
-  background: -webkit-radial-gradient(#ff7600, #ff5c00);
-  background: radial-gradient(#ff7600, #ff5c00);
+  /*background: -webkit-radial-gradient(#021222, #020222);
+  background: radial-gradient(#021222, #020222);*/
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
@@ -10532,7 +10532,7 @@ a.button {
     text-align: center;
     vertical-align: middle; }
   .mm-bglogo img {
-    width: 60%;
+    width: 200%;
     max-width: 300px;
     display: block;
     margin: 0 auto;
@@ -10566,7 +10566,7 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #002B56;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
@@ -13089,7 +13089,7 @@ li.mm-question-answer-incorrect,
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #002B56;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff;
   height: 80px !important; }
@@ -14389,3 +14389,6 @@ ion-popover-view {
 .mma-qtype-multianswer-container input[type="radio"], .mma-qtype-multianswer-container input[type="checkbox"] {
   margin-top: -4px;
   margin-right: 7px; }
+
+ul.aulaweb {
+  line-height: 20px; }
