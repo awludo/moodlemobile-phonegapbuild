@@ -503,7 +503,7 @@
     "mm.login.cancel": "Annulla",
     "mm.login.confirmdeletesite": "Sei sicuro di eliminare il sito {{sitename}}?",
     "mm.login.connect": "Collegati",
-    "mm.login.connecttomoodle": "Collegati ad AulaWeb",
+    "mm.login.connecttomoodle": "Collegati ad AulaWeb ",
     "mm.login.createaccount": "Crea il mio nuovo account",
     "mm.login.createuserandpass": "Scegli username e password",
     "mm.login.credentialsdescription": "Per favore inserisci username e password per l'autenticazione",
